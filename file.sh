@@ -1,8 +1,10 @@
-<<<<<<< Updated upstream
+
 Pyhton scripts
 hello world
 
 
-=======
+
 Java files are very easy to right 
->>>>>>> Stashed changes
+
+file was added with red colour 
+
